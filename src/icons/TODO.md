@@ -123,3 +123,10 @@ viewBox fixups to avoid clipping or out-of-bounds positioning:
 The file signalapp.svg needs cleanups to remove unused clipPath
 and filter specifications. The icon looks like it can be reduced
 to an ordinary path.
+
+
+## Make Sprite Release
+
+    cd src/icons/svg
+    test -z "`git status -zu`" || echo ERROR: clean untracked files
+    ../../../node_modules/.bin/svgstore `fgrep viewBox *.svg -l` -o fork-awesome-sprites-0.0.svg
