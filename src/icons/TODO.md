@@ -116,3 +116,10 @@ viewBox fixups to avoid clipping or out-of-bounds positioning:
     wikidata.svg
     xmpp.svg
     zotero.svg
+
+
+## Remove clipPath definitions
+
+The file signalapp.svg needs cleanups to remove unused clipPath
+and filter specifications. The icon looks like it can be reduced
+to an ordinary path.
