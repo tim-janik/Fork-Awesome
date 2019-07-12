@@ -1,7 +1,7 @@
 
 ## Possibly uncentered
 
-The following icons could be improved by horizontally centering:
+The following Font-Awesome icons could be improved by horizontally centering:
 
     ls \
     arrow* \
@@ -30,7 +30,7 @@ The following icons could be improved by horizontally centering:
 
 ## Missing viewBox specification
 
-The following icons still need a viewBox:
+The following Fork-Awesome icons still need a viewBox:
 
     att.svg
     bell-rigning-o.svg
@@ -50,3 +50,69 @@ The following icons still need a viewBox:
     tor-onion.svg
     volume-mute.svg
     wire.svg
+
+
+## Incorrect viewBox specification
+
+The list of remaining Fork-Awesome icons. Some of which need
+viewBox fixups to avoid clipping or out-of-bounds positioning:
+
+    activitypub.svg
+    archive-org.svg
+    archlinux.svg
+    artstation.svg
+    biometric.svg
+    bootstrap.svg
+    c.svg
+    debian.svg
+    dev-to.svg
+    diaspora.svg
+    digitalocean.svg
+    dogmazic.svg
+    emby.svg
+    ethereum.svg
+    facebook-messenger.svg
+    f-droid.svg
+    file-epub.svg
+    fork-awesome.svg
+    freedombox.svg
+    friendica.svg
+    gimp.svg
+    gitea.svg
+    gnu-social.svg
+    hackaday.svg
+    hackster.svg
+    hashnode.svg
+    hubzilla.svg
+    inkscape.svg
+    jirafeau.svg
+    keybase.svg
+    key-modern.svg
+    laravel.svg
+    liberapay-square.svg
+    liberapay.svg
+    mastodon-alt.svg
+    mastodon-square.svg
+    mastodon.svg
+    matrix-org.svg
+    moon.svg
+    nextcloud-square.svg
+    nextcloud.svg
+    nodejs.svg
+    php.svg
+    pixelfed.svg
+    pleroma.svg
+    python.svg
+    react.svg
+    scuttlebutt.svg
+    shaarli-o.svg
+    shaarli.svg
+    signalapp.svg
+    social-home.svg
+    spell-check.svg
+    syncthing.svg
+    tipeee.svg
+    unslpash.svg
+    wikidata.svg
+    xmpp.svg
+    zotero.svg
